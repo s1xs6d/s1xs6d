@@ -5,6 +5,5 @@
 - [stdd.dev](stdd.dev) 도메인의 소규모 홈랩을 구성해보고 있습니다
 - 4년차 앱등이로써 책상 위에 사과농장을 운영하고 있습니다
 - 항상 학습의 의지를 지니고 앞으로 나아가고자 하는 분들을 존경합니다
-- 제 개인 작업물과 기여한 오픈소스는 [오기준 레포지토리](https://github.com/five-standard) 에서 찾으실 수 있습니다
 
 [![wakatime](https://wakatime.com/badge/user/018b4c78-faad-4221-95dd-ca0081068804.svg)](https://wakatime.com/@018b4c78-faad-4221-95dd-ca0081068804)
